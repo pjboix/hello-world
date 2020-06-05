@@ -1,2 +1,2 @@
 # hello-world
-Prueba de aprendizaje y sesteo
+Prueba de aprendizaje y testeo
